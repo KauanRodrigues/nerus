@@ -1,0 +1,14 @@
+.card
+{
+    margin-top: 30px;
+}
+
+table > thead > tr, table > tbody > tr
+{
+    text-align: center;
+}
+
+.btn_alinhado
+{
+    margin-top: 32px;
+}
